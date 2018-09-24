@@ -1,0 +1,6 @@
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 1\Calculator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 1\Calculator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 1\Calculator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 1\Calculator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 1\Calculator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\AMIKOM\SEMESTER 3\Pemrograman Lanjut\Latihan 1\Calculator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
